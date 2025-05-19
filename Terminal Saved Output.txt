@@ -1,69 +1,4 @@
-Last login: Tue Feb 25 09:51:06 on console
-cortezcunningham@Cortezs-MacBook-Pro ~ % cd path/to/BFG_website
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/yourusername/BFG-Website.git
-git push -u origin main
-
-cd: no such file or directory: path/to/BFG_website
-xcode-select: note: No developer tools were found, requesting install.
-If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
-See `man xcode-select` for more details.
-xcode-select: note: No developer tools were found, requesting install.
-If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
-See `man xcode-select` for more details.
-xcode-select: note: No developer tools were found, requesting install.
-If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
-See `man xcode-select` for more details.
-xcode-select: note: No developer tools were found, requesting install.
-If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
-See `man xcode-select` for more details.
-xcode-select: note: No developer tools were found, requesting install.
-If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
-See `man xcode-select` for more details.
-xcode-select: note: No developer tools were found, requesting install.
-If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
-See `man xcode-select` for more details.
-cortezcunningham@Cortezs-MacBook-Pro ~ % BFG-Website
-├── index.html
-├── images/
-├── style.css (if you added one)
-└── other files
-
-zsh: command not found: BFG-Website
-zsh: command not found: ├──
-zsh: command not found: ├──
-zsh: unknown file attribute: i
-zsh: command not found: └──
-cortezcunningham@Cortezs-MacBook-Pro ~ % cd path/to/BFG_website
-mv foldername/index.html .   # Moves the file to the root
-git add .
-git commit -m "Moved index.html to root"
-git push origin main
-
-cd: no such file or directory: path/to/BFG_website
-mv: root is not a directory
-xcode-select: note: No developer tools were found, requesting install.
-If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
-See `man xcode-select` for more details.
-xcode-select: note: No developer tools were found, requesting install.
-If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
-See `man xcode-select` for more details.
-xcode-select: note: No developer tools were found, requesting install.
-If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
-See `man xcode-select` for more details.
-cortezcunningham@Cortezs-MacBook-Pro ~ % mv foldername/index.html .   # Moves the file to the root
-git add .
-git commit -m "Moved index.html to root"
-git push origin main
-
-mv: root is not a directory
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-cortezcunningham@Cortezs-MacBook-Pro ~ % <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -131,23 +66,22 @@ cortezcunningham@Cortezs-MacBook-Pro ~ % <!DOCTYPE html>
     </section>
     <section id="gallery" class="gallery">
         <h2>Gallery</h2>
-        <!-- Image links will be added here -->
+        <img src="images/IMG_0788.jpeg" alt="Artwork 1">
+        <img src="images/IMG_0914.png" alt="Artwork 2">
+        <img src="images/IMG_0915.png" alt="Artwork 3">
+        <img src="images/IMG_0916.png" alt="Artwork 4">
+        <img src="images/IMG_0919.png" alt="Artwork 5">
+        <img src="images/IMG_4454.jpeg" alt="Artwork 6">
+        <img src="images/IMG_7302.jpeg" alt="Artwork 7">
+        <img src="images/IMG_7303.jpeg" alt="Artwork 8">
+        <img src="images/IMG_7304.jpeg" alt="Artwork 9">
+        <img src="images/IMG_7305.jpeg" alt="Artwork 10">
+        <img src="images/IMG_7306.jpeg" alt="Artwork 11">
+        <img src="images/IMG_7307.jpeg" alt="Artwork 12">
+        <img src="images/IMG_7310.png" alt="Artwork 13">
     </section>
     <footer>
         <p>© 2025 Build For Greatness. All Rights Reserved.</p>
     </footer>
 </body>
 </html>
-IMG_0788.jpeg
-IMG_0914.png
-IMG_0915.png
-IMG_0916.png
-IMG_0919.png
-IMG_4454.jpeg
-IMG_7302.jpeg
-IMG_7303.jpeg
-IMG_7304.jpeg
-IMG_7305.jpeg
-IMG_7306.jpeg
-IMG_7307.jpeg
-IMG_7310.png
