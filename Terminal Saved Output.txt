@@ -84,4 +84,16 @@
         <p>© 2025 Build For Greatness. All Rights Reserved.</p>
     </footer>
 </body>
-</html>
+</html>cd ~/Documents/BFG-Website
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/cortez628/Cortez-Portfolio-.git
+git push -u origin main
+
+git add index.html
+git commit -m "Updated gallery with new images"
+git push origin main
+
+
+
