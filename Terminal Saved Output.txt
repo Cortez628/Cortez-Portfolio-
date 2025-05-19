@@ -1,0 +1,66 @@
+Last login: Tue Feb 25 09:51:06 on console
+cortezcunningham@Cortezs-MacBook-Pro ~ % cd path/to/BFG_website
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/yourusername/BFG-Website.git
+git push -u origin main
+
+cd: no such file or directory: path/to/BFG_website
+xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+cortezcunningham@Cortezs-MacBook-Pro ~ % BFG-Website
+├── index.html
+├── images/
+├── style.css (if you added one)
+└── other files
+
+zsh: command not found: BFG-Website
+zsh: command not found: ├──
+zsh: command not found: ├──
+zsh: unknown file attribute: i
+zsh: command not found: └──
+cortezcunningham@Cortezs-MacBook-Pro ~ % cd path/to/BFG_website
+mv foldername/index.html .   # Moves the file to the root
+git add .
+git commit -m "Moved index.html to root"
+git push origin main
+
+cd: no such file or directory: path/to/BFG_website
+mv: root is not a directory
+xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+cortezcunningham@Cortezs-MacBook-Pro ~ % mv foldername/index.html .   # Moves the file to the root
+git add .
+git commit -m "Moved index.html to root"
+git push origin main
+
+mv: root is not a directory
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+cortezcunningham@Cortezs-MacBook-Pro ~ % 
