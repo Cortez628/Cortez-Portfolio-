@@ -35,3 +35,7 @@ BFG-Website/
     ├── IMG_7307.jpeg
     └── IMG_7310.png
 https://cortez628.github.io/Cortez-Portfolio-/
+cd ~/Documents/BFG-Website
+git add index.html images/*
+git commit -m "Fixed image paths and updated HTML for GitHub Pages"
+git push origin main
